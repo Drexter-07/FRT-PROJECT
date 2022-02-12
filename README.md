@@ -10,8 +10,9 @@ I have used multiple azure technologies like:
 
 
 Resource Group
+<img width="960" alt="Screenshot 2022-02-12 201046" src="https://user-images.githubusercontent.com/59890906/153715764-398c7543-8f83-4ff7-b641-9d59c48396de.png">
 
-<img width="960" alt="Screenshot 2022-02-11 214419" src="https://user-images.githubusercontent.com/59890906/153715412-236d591b-39da-4566-bc94-63d568e7a645.png">
+
 
 Disease Chat Assistant Bot
 
@@ -19,7 +20,7 @@ Disease Chat Assistant Bot
 <img width="960" alt="Screenshot 2022-02-12 195827" src="https://user-images.githubusercontent.com/59890906/153715473-b0a40246-7f0b-4ee2-9e97-48bede5cb81f.png">
 
 
-Published the Data-sets in QnA Maker and trained the model accordingly
+Published the Data-sets in Knowledge Base and trained the model in QnA Maker accordingly
 
 
 <img width="960" alt="Screenshot 2022-02-12 195853" src="https://user-images.githubusercontent.com/59890906/153715504-82a53f74-7d3c-4e59-af37-6ecab61a81bf.png">
@@ -27,7 +28,8 @@ Published the Data-sets in QnA Maker and trained the model accordingly
 
 Sample HTTP Request using postman
 
-<img width="960" alt="Screenshot 2022-02-12 195853" src="https://user-images.githubusercontent.com/59890906/153715558-1bb8db79-364e-45cf-b509-5d5d04c1c1c4.png">
+<img width="960" alt="Screenshot 2022-02-12 200037" src="https://user-images.githubusercontent.com/59890906/153715799-1655dd6a-dbb5-40af-af3a-dd63fe934010.png">
+
 
 
 Successfully Deployed the chatbot in telegram
