@@ -1,12 +1,19 @@
 # FRT-PROJECT
 This is my project for the Future ready Talent Program.
 I have created a health chat bot.
+Name of my chatbot is -Disease Chat Assistant
+Telegram Username - @DiseaseChat_bot
+
+Screenshot of the profile of my bot:
+<img width="644" alt="Screenshot 2022-02-12 201638" src="https://user-images.githubusercontent.com/59890906/153715966-7eeed4d2-59ff-4345-a291-c363ca4802d9.png">
+
+
 All the datasets i used are here in the repository.
 I have used multiple azure technologies like:
 1. Azure Bot Service
-2. API app service
+2. Web App Bot
 3. QnA Maker
-4. Web App Bot
+4. API App Services
 
 
 Resource Group
@@ -32,7 +39,7 @@ Sample HTTP Request using postman
 
 
 
-Successfully Deployed the chatbot in telegram
+Successfully Deployed the chatbot in telegram using Botfather
 
 <img width="960" alt="Screenshot 2022-02-12 200659" src="https://user-images.githubusercontent.com/59890906/153715621-ce7f878a-5244-434d-a6f0-3ae3a32b29f1.png">
 
