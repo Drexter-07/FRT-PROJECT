@@ -5,6 +5,7 @@ Name of my chatbot is -Disease Chat Assistant
 Telegram Username - @DiseaseChat_bot
 
 Screenshot of the profile of my bot:
+
 <img width="644" alt="Screenshot 2022-02-12 201638" src="https://user-images.githubusercontent.com/59890906/153715966-7eeed4d2-59ff-4345-a291-c363ca4802d9.png">
 
 
